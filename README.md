@@ -14,7 +14,7 @@ This project consisted of me configuring a virtual machine, to run a domain cont
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
-
+- <b>Server 2019</b> 
 <h2>Program walk-through:</h2>
 
 <p align="center">
