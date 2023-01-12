@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project consisted of me configuring a virtual machine, to run a domain controller from which I could experiment with active directory. Thouroughly going through this lab a few times gives you a grasp of how an organization would work with users and how they could provision them. Within this lab you also learn some networking, having to configure things like a DHCP and DNS.
+This project consisted of me configuring a virtual machine, to run a domain controller from which I could experiment with active directory. Thouroughly going through this lab a few times gives you a grasp of how an organization would work with users and how they could provision them. Within this lab you also learn some networking, having to configure things like a DHCP server and DNS.
 <br />
 
 
