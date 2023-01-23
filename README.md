@@ -44,14 +44,23 @@ Sanitization complete:  <br/>
 <br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/OAtlEBS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<p align="center">
+Download and open Oracle Vitrual Box <br/>
+<img src="https://i.imgur.com/dKpigqL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Select the disk:  <br/>
+<img src="https://i.imgur.com/1IekxiG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Enter the number of passes: <br/>
+<img src="https://i.imgur.com/ZLbziVd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Confirm your selection:  <br/>
+<img src="https://i.imgur.com/30Z2HGR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img src="https://i.imgur.com/ZT65b7y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
