@@ -34,7 +34,7 @@ Go into server manager dashboard and install Active Directory Domain Services:  
 <img src="https://i.imgur.com/Ye2NUWE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Intsall RAS to allow client to be on virtual network but still be able to access the internet:  <br/>
+Intsall RAS/NAT to allow client to be on virtual network but still be able to access the internet:  <br/>
 <img src="https://i.imgur.com/9ol784E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
