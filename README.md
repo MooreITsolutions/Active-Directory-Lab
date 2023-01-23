@@ -18,8 +18,8 @@ This project consisted of me configuring a virtual machine, to run a domain cont
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Open Oracle Vitrual Box <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download and open Oracle Vitrual Box <br/>
+<img src="https://i.imgur.com/WvxlwYt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
