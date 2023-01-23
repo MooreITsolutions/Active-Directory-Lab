@@ -18,24 +18,24 @@ This project consisted of me configuring a virtual machine, to run a domain cont
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Download and open Oracle Vitrual Box <br/>
+Download and open Oracle Vitrual Box: <br/>
 <img src="https://i.imgur.com/WvxlwYt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Install and run Server 2019:  <br/>
 <img src="https://i.imgur.com/9hMswuN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Set IP address for internal NIC. No need for default gateway, the DC is going to act as one. This Server will also be the DNS server so you can use the loopback ping address of 127.0.0.1: <br/>
 <img src="https://i.imgur.com/klPhIoA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Go into server manager dashboard and install Active Directory Domain Services:  <br/>
 <img src="https://i.imgur.com/Ye2NUWE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/qv5NNDt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Intsall RAS to allow client to be on virtual network but still be able to access the internet:  <br/>
+<img src="https://i.imgur.com/9ol784E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
