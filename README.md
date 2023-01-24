@@ -38,7 +38,7 @@ Intsall RAS/NAT to allow client to be on virtual network but still be able to ac
 <img src="https://i.imgur.com/9ol784E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Configure DHCP and scope for future clients to gain access to the network and be assigned IP addresses:  <br/>
 <img src="https://i.imgur.com/IKAeW2Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -49,18 +49,18 @@ Download and open Oracle Vitrual Box <br/>
 <img src="https://i.imgur.com/dKpigqL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Create another VM, this one to act as a client to connect to the DC we have set up:  <br/>
 <img src="https://i.imgur.com/1IekxiG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Run ipconfig in the command line to confirm IP address and default gateway of client: <br/>
 <img src="https://i.imgur.com/ZLbziVd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Ping 8.8.8.8 to see if the client can reach the internet(google):  <br/>
 <img src="https://i.imgur.com/30Z2HGR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Ping:  <br/>
 <img src="https://i.imgur.com/ZT65b7y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
