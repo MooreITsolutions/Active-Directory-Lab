@@ -42,10 +42,8 @@ Configure DHCP and scope for future clients to gain access to the network and be
 <img src="https://i.imgur.com/IKAeW2Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/OAtlEBS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p align="center">
-Download and open Oracle Vitrual Box <br/>
+Here I am inserting a text file of generated names using Powershell to automate the addition of users <br/>
 <img src="https://i.imgur.com/dKpigqL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -61,6 +59,6 @@ Ping 8.8.8.8 to see if the client can reach the internet(google):  <br/>
 <img src="https://i.imgur.com/30Z2HGR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Ping:  <br/>
+Lastly here we can see the client was given a lease when it was connected to the network:  <br/>
 <img src="https://i.imgur.com/ZT65b7y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
